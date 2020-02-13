@@ -49,7 +49,7 @@ As described in "Access and Dependencies for TDQA" above, user must
 
 
 <tr>
-<td> <img src="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/ce2ece60-9b32-11e6-95ab-00163ed833e7/260663710/the-test-fun-for-friends-screenshot.jpg", alt="Drawing" width="50"/> </td>
+<td> <img src="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/ce2ece60-9b32-11e6-95ab-00163ed833e7/260663710/the-test-fun-for-friends-screenshot.jpg", alt="Drawing" width="100"/> </td>
 <td> <img src="Images/Intra_Cycle_Analysis_sgPETE_QC_Heatmap.png" alt="Drawing" style="width: 400px;"/> </td>
 </tr>
 
