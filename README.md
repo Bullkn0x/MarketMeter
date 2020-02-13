@@ -1,5 +1,5 @@
 
-## TDQA tool
+["1"]## TDQA tool
   
 TDQA leverages fundamental probability theory and statistical techniques to measure the separation, (dis)similarity, of tag level distributions within a given experimental condition and/or between exprimental conditions. 
 
@@ -67,7 +67,7 @@ In Figure 1b. on the right, four subplots are shown, one for each tag and their 
 
 ### --tag_compare
 
-*Usage:*
+(#"1")*Usage:*
 >```
 >plot aggregates -q 'condition in ["Condition_1", "Condition_2"]' --tag_compare
 >```
