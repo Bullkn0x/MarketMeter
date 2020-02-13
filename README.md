@@ -1,5 +1,5 @@
 
-# TDQA tool(#test)  
+#TDQA tool  
 TDQA leverages fundamental probability theory and statistical techniques to measure the separation, (dis)similarity, of tag level distributions within a given experimental condition and/or between exprimental conditions. 
 
 
