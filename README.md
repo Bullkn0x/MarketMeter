@@ -66,7 +66,7 @@ In Figure 1b. on the right, four subplots are shown, one for each tag and their 
 
 ### --tag_compare
 
-(#"1")*Usage:*
+*Usage:*(#test)
 >```
 >plot aggregates -q 'condition in ["Condition_1", "Condition_2"]' --tag_compare
 >```
