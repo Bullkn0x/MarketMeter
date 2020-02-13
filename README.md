@@ -1,5 +1,5 @@
 
-[TDQA tool](#test)  
+# [TDQA tool](#test)  
 TDQA leverages fundamental probability theory and statistical techniques to measure the separation, (dis)similarity, of tag level distributions within a given experimental condition and/or between exprimental conditions. 
 
 
@@ -59,7 +59,7 @@ As described in "Access and Dependencies for TDQA" above, user must
 In Figure 1a. on the left, two subplots are displayed showing the four tag level signals distributed in 1D (top) and 2D, as versus dwell time (bottom). The 1D illustration displays each tag level signal distributed as a simple ***histogram*** with a ***bin length of 0.02 from range of -0.5 to 1.5***. The 2D illustration displays each tag level signal, x-axis, versus their respective dwell time signal, y-axis, fitted using a ***kernel density estimation using Gaussian kernels***. 
 
 
-## [TDQA tool](#test)  (http://ghe-rss.roche.com/rsc/TAG/blob/master/TDQA/Images/Intra_Cycle_Analysis_Rocket_Heatmap.png)
+# [TDQA tool](#test)  (http://ghe-rss.roche.com/rsc/TAG/blob/master/TDQA/Images/Intra_Cycle_Analysis_Rocket_Heatmap.png)
 **Intra_Cycle_Analysis_Condition1_Heatmap.png**
 
 In Figure 1b. on the right, four subplots are shown, one for each tag and their corresponding cycle by cycle comparisons for computed Jensen Shannon distances. In this way, ***all possible cycle pair combinations*** within *one experimental condition* are assessed, each quadrant illustrating the JS values for the respective tag, along with their corresponding color representation of the relative intensities captured in the heatmap. As can be seen in the legend, the higher the red intensity, the greater the value for the JS value and therefore the greater the statistical distance measured between the pairs.  
