@@ -1,9 +1,9 @@
 
-# [TDQA tool]  
+# [TDQA tool](#test)  
 TDQA leverages fundamental probability theory and statistical techniques to measure the separation, (dis)similarity, of tag level distributions within a given experimental condition and/or between exprimental conditions. 
 
 
-## Reported Metrics
+#Reported Metrics
 A detailed description of the mathematical theory behind the computated metrics below can be found here. 
 However, here is a quick overview of what is computed and reported: 
 
